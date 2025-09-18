@@ -10,6 +10,15 @@ MediConnect is a full-stack web application designed to facilitate online doctor
 - **Payment Integration**: Secure payment processing for appointments and services.
 - **Analytics Dashboard**: Admins can view analytics reports to monitor application usage and performance.
 
+## Tech stack
+ 
+
+Frontend: React, Redux Toolkit, Tailwind CSS
+Backend: Django
+Database: PostgreSQL
+Authentication: JWT-based authentication
+Deployment: GitHub and AWS
+
 ## Project Structure
 
 ```
